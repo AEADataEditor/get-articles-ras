@@ -1,0 +1,5 @@
+*.csv
+.local
+.config
+.RData
+.bash_history
